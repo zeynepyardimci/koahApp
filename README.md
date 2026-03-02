@@ -116,3 +116,8 @@ $env:ANDROID_SDK_ROOT = $env:ANDROID_HOME
 2. **Ayarlar → Güvenlik → Bilinmeyen Kaynaklara İzin Ver** seçeneğini etkinleştirin.
 3. Dosya yöneticisinden APK'ya dokunarak yükleyin.
 ---
+
+## YouTube Linki:
+https://youtube.com/shorts/UjhMBE1divU?si=jn7qGVtZJgP6QXXe
+
+---
